@@ -124,6 +124,5 @@ highlight_name: true
 ---
 
 I am currently working on the self-operating networks. We
-collect a dataset of network config and behavior to train the machine learning model in order to eventually automate network operation. Previously I have worked at ViaSat, Visa, Huawei, Juniper, OPNET, representing vendor, enterprise, and network operator, for more than 20+ years. 
-My innovative work is mostly on the resilient design, engineering and operation of computer networks globally.
+collect a dataset of network config and behavior to train the machine learning model in order to eventually automate network operation. Previously I have worked at ViaSat, Visa, Huawei, Juniper, OPNET, representing vendor, enterprise, and network operator, for more than 20+ years.  My innovative work is mostly on the resilient design, engineering and operation of computer networks globally.
 {style="text-align: justify;"}
