@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Victor Liu 刘宇
+title: Victor Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Liu Yu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Victor
