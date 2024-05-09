@@ -59,29 +59,45 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C/C++
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: database
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
+      - name: network
+        description: ''
+        percent: 80
+        icon: network-wired
+        icon_pack: fas
+      - name: Kubernetes
+        description: ''
+        percent: 80
+        icon: kubernetes
+        icon_pack: devicon
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Swimming
+        description: ''
+        percent: 60
+        icon: person-swimming
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Skiing
         description: ''
-        percent: 100
-        icon: cat
+        percent: 60
+        icon: person-skiing
         icon_pack: fas
       - name: Photography
         description: ''

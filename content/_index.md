@@ -237,37 +237,28 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: vyl@umich.edu
+      phone: 734 763 8486
+      appointment_url: 'https://calendar.google.com/calendar/u/0?cid=Y180YjBhOWRjOTMxYTJlMzkzZjI4MjIwOGM5Zjk5YTQyNjQ0ODVhM2M1MjNkMTgxMDI5N2EzNzg5ODlhMzBiMWM2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 725 Weiser Hall, 500 Church Street
+        city: Ann Arbor
+        region: MI
+        postcode: '48109'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: 
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Tuesday 10 to 12 noon, Fall 2024'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '42.276750'
+        longitude: '-83.734980'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Email to setup for Zoom
+          link: 'https://umich.zoom.us/'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
