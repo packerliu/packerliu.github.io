@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      #title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -62,6 +62,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Professor
+          company: University of Michigan
+          company_url: 'https://www.umich.edu/'
+          company_logo: Block_M-Hex.png
+          location: Michigan
+          date_start: '2020-12'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Research on self-operating networks
+              * Teach courses on Logic Design and Computational Social Science
         - title: SDN Architect
           company: ViaSat
           company_url: 'https://www.viasat.com/'
@@ -110,6 +122,7 @@ sections:
           
     design:
       columns: '2'
+  
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -141,15 +154,15 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        #- certificate_url: https://www.datacamp.com
+        #  date_end: '2020-12-21'
+        #  date_start: '2020-07-01'
+        #  description: ''
+        #  icon: datacamp
+        #  organization: DataCamp
+        #  organization_url: https://www.datacamp.com
+        #  title: 'Object-Oriented Programming in R'
+        #  url: ''
     design:
       columns: '2'
   - block: collection
@@ -260,7 +273,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        DO NOT USE!!!  Under construction... 
       # Contact (add or remove contact options as necessary)
       email: vyl@umich.edu
       phone: 734 763 8486
