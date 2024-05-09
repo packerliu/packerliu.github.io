@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Victor Liu 
+title: Victor Liu 刘宇
 
 # Name pronunciation (optional)
 name_pronunciation: Liu Yu
