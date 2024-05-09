@@ -86,7 +86,7 @@ sections:
         - title: Principal Architect
           company: Futurewei
           company_url: 'https://www.futurewei.com/'
-          company_logo: futurewei-logo
+          company_logo: futurewei-logo.png
           location: California
           date_start: '2010'
           date_end: '2015-07'
