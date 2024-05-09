@@ -62,27 +62,52 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
+        - title: SDN Architect
+          company: ViaSat
+          company_url: 'https://www.viasat.com/'
+          company_logo: viasat-logo.png
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2019-11'
+          date_end: '2023-11'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Software Defined Networking
+              * Software Technical Lead 
+              * Acting Product Owner of Network Programmability
+        - title: Chief Architect
+          company: Visa
           company_url: ''
-          company_logo: org-x
+          company_logo: visa-logo.jpeg
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2015-07'
+          date_end: '2019-11'
+          description: Architecture reposponsible for WAN Backbone evalution and network tooling.
+        - title: Principal Architect
+          company: Futurewei
+          company_url: 'https://www.futurewei.com/'
+          company_logo: futurewei-logo
+          location: California
+          date_start: '2010'
+          date_end: '2015-07'
+          description: Lead network optimization for optical network design and the software defined networking initiatives. 
+        - title: Staff Engineer
+          company: Juniper
+          company_url: 'https://www.juniper.net/'
+          company_logo: juniper-logo.jpeg
+          location: California
+          date_start: '2007'
+          date_end: '2009'
+          description: Lead network optimization for optical network design and the software defined networking initiatives. 
+        - title: Software Engineer
+          company: OPNET
+          company_url: 'https://en.wikipedia.org/wiki/OPNET'
+          company_logo: opnet-logo.gif
+          location: Maryland
+          date_start: '2001'
+          date_end: '2007'
+          description: Principal developer for traffic engineering, link dimensioning, topology design, fast reroute optimization in the service provider backbone planning product. 
+          
     design:
       columns: '2'
   - block: accomplishments

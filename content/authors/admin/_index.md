@@ -61,24 +61,24 @@ skills:
         icon_pack: fab
       - name: C/C++
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: database
         description: ''
-        percent: 80
+        percent: 60
         icon: database
         icon_pack: fas
       - name: network
         description: ''
-        percent: 80
+        percent: 90
         icon: network-wired
         icon_pack: fas
-      - name: Kubernetes
-        description: ''
-        percent: 80
-        icon: kubernetes
-        icon_pack: devicon
+      #- name: Kubernetes
+      #  description: ''
+      #  percent: 80
+      #  icon: kubernetes
+      #  icon_pack: devicon
 
   - name: Hobbies
     color: '#eeac02'
@@ -86,22 +86,22 @@ skills:
     items:
       - name: Swimming
         description: ''
-        percent: 60
+        percent: 80
         icon: person-swimming
         icon_pack: fas
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Skiing
         description: ''
-        percent: 60
+        percent: 80
         icon: person-skiing
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera-retro
         icon_pack: fas
 
