@@ -1,50 +1,53 @@
 ---
 # Display name
-title: 吳健雄
+title: Victor Liu 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liu Yu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Victor
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐝
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Michigan
+    url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a researcher in the computer networking area, especially on the topics of resilient network design and  operation, software architect, approximation algorithms, social networks, and embedded electronics. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Computer networks
+  - Software architecture
+  - Approximation algorithms
+  - Mathematical optimization 
+  - Performance analysis
+  
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information Sciences with a concentration on Telecommunications
+      institution: University of Pittsburgh
+      year: 2001
+    - course: MEng in Communication and Electronic Systems
+      institution: Tsinghua University
+      year: 1996
+    - course: BEng in Information Science and Technology
+      institution: XiAn Jiaotong University
+      year: 1993
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -91,34 +94,36 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/packerliu
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=4wb3fJMAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/packerliu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/liuyu
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/VictorLiuCV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently working on the self-operating networks. We
+collect a dataset of network config and behavior to train the machine learning model in order to eventually automate network operation. Previously I have worked at ViaSat, Visa, Huawei, Juniper, OPNET, representing vendor, enterprise, and network operator, for more than 20+ years. 
+My innovative work is mostly on the resilient design, engineering and operation of computer networks globally.
 {style="text-align: justify;"}
